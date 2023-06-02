@@ -36,6 +36,10 @@
     transform: rotate(360deg);
   }
 }
-.declare{
+.body{
+  width: 50%;
+  margin-left: 20px;
+}
+.body ul{
   text-align: center;
 }
